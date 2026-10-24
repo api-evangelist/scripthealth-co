@@ -1,0 +1,18 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/scripthealth-co/integrations
+- https://zapier.com/apps/script-health/integrations
+- https://n8n.io/integrations/scripthealth-co/
+- https://composio.dev/toolkits/scripthealth-co
+- https://monid.ai/tools/scripthealth-co
+checked:
+- https://composio.dev/toolkits/scripthealth-co
+- https://monid.ai/tools/scripthealth-co
+- https://n8n.io/integrations/scripthealth-co/
+- https://zapier.com/apps/script-health/integrations
+- https://zapier.com/apps/scripthealth-co/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
